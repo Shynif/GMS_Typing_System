@@ -14,12 +14,11 @@ Features :
 - Save and show older commands
 
 
-
-enjoy :)
+---
 
 
 
 Need help ? Want to share your creation ?
 
--> Discord : Shynif#4685
--> Twitter  : @DevShynif
+- Discord : Shynif#4685
+- Twitter  : https://twitter.com/DevShynif
